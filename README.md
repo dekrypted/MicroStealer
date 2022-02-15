@@ -5,7 +5,7 @@ The other day, I decided to create a **simple token stealer** using the least am
 
 **Please note**, this is more of a <ins>PoC</ins> than a real grabber.<br />You most likely wont be using this.<br />**However**, when compiled with **PyInstaller**, it is quite small!<br />
 <h2 align="left">- Features -</h3>
-```
+```pythin
 - Injects, so even if the user changes their token you have it!
 - Works with any webhook, even if it's not discord!
 - Only 15 lines of code!
