@@ -10,6 +10,7 @@ The other day, I decided to create a **simple token stealer** using the least am
 * `Injects, so even if the user changes their token you have it! `
 * `Works with any webhook, even if it's not discord! `
 * `Only 16 lines of code! `
+* `No external modules needed! `
 
 # Usage (If for some reason you want to use it)
 **Simple!** Open the file and where it says:<br />
