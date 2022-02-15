@@ -4,8 +4,10 @@
 The other day, I decided to create a **simple token stealer** using the least amount of lines possible.<br />This is how it came out!<br />
 
 **Please note**, this is more of a <ins>PoC</ins> than a real grabber.<br />You most likely wont be using this.<br />**However**, when compiled with **PyInstaller**, it is quite small!<br />
-<h4 align="left">- Features</h3>
-
+<h2 align="left">- Features -</h3>
+`Injects, so even if the user changes their token you have it!`<br />
+`Works with any webhook, even if it's not discord!`<br />
+`Only 15 lines of code!`<br />
 # Usage (If for some reason you want to use it)
 **Simple!** Open the file and where it says:<br />
  
