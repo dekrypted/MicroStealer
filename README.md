@@ -21,17 +21,19 @@ webhook = 'YOUR WEBHOOK'
 <br />
 You must replace 'YOUR WEBHOOK' with a valid webhook. Because of the nature of this grabber, you can use any webhook.<br />
 (Guilded, Discord, Telegram, even your own server! 👀)
-
 **Enjoy!** 😊
 
 # Compiling to an EXE
-
 With the help of **PyInstaller**, we can convert this script into an EXE file.<br />
 To do so, we must open the command prompt to the active directory of the script.<br />
 From here, install PyInstaller and compile!
+
 <h3 align="left">Installing PyInstaller</h3>
+
 * `pip install pyinstaller `
+
 <h3 align="left">Compiling the script</h3>
+
 * `pyinstaller --clean --onefile -w {scriptname}.py `
 <br />
 **Done!**
