@@ -25,6 +25,7 @@ You must replace 'YOUR WEBHOOK' with a valid webhook. Because of the nature of t
 **Enjoy!** 😊
 
 # Compiling to an EXE
+
 With the help of **PyInstaller**, we can convert this script into an EXE file.<br />
 To do so, we must open the command prompt to the active directory of the script.<br />
 From here, install PyInstaller and compile!
