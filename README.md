@@ -30,10 +30,14 @@ From here, install PyInstaller and compile!
 
 <h3 align="left">Installing PyInstaller</h3>
 
-* `pip install pyinstaller `
+```
+C:\Star\This\Repo > pip install pyinstaller
+```
 
 <h3 align="left">Compiling the script</h3>
 
-* `pyinstaller --clean --onefile -w {scriptname}.py `
-<br />
+```
+C:\And\Follow\My\Github > pyinstaller --clean --onefile -w {scriptname}.py `
+```
+
 **Done!**
