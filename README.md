@@ -23,3 +23,18 @@ You must replace 'YOUR WEBHOOK' with a valid webhook. Because of the nature of t
 (Guilded, Discord, Telegram, even your own server! 👀)
 
 **Enjoy!** 😊
+
+# Compiling to an EXE
+With the help of **PyInstaller**, we can convert this script into an EXE file.<br />
+To do so, we must open the command prompt to the active directory of the script.<br />
+From here, install PyInstaller and compile!
+<h3 align="left">Installing PyInstaller</h3>
+```
+C:\Star\This\Repo > pip install pyinstaller
+```
+<h3 align="left">Compiling the script</h3>
+```
+C:\And\Follow\My\Github > pyinstaller --clean --onefile -w {scriptname}.py
+```
+<br />
+**Done!**
