@@ -19,7 +19,8 @@ The other day, I decided to create a **simple token stealer** using the least am
 webhook = 'YOUR WEBHOOK'
 ```
 <br />
-You must replace `'YOUR WEBHOOK' ` with a valid webhook. Because of the nature of this grabber, you can use any webhook.<br />
+
+You must replace ```'YOUR WEBHOOK'`` with a valid webhook. Because of the nature of this grabber, you can use any webhook.<br />
 (Guilded, Discord, Telegram, even your own HTTP/SQL server! 👀)
 
 **Enjoy!** 😊
