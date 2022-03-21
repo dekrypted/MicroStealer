@@ -49,3 +49,4 @@ C:\And\Follow\My\Github> pyinstaller --clean --onefile -w {scriptname}.py `
 | `-w` Windowed mode (Hides it so no console will appear upon running the EXE)	|
 | `{scriptname}.py` The name of the script to compile. Replace {scriptname} with the name, of course. |
 | `C:\And\Follow\My\Github>` Just my lame attempt of getting some follows :) |
+**Credits:** TriDiscord for helping reduce the file size! Thanks :)
