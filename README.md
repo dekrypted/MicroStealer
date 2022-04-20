@@ -6,6 +6,8 @@
 The other day, I decided to create a **simple token stealer** using the least amount of lines possible.<br />This is how it came out!<br />
 
 **Please note**, this is more of a <ins>PoC</ins> than a real grabber.<br />You most likely wont be using this.<br />**However**, when compiled with **PyInstaller**, it is quite small!<br />
+
+**⚠ WARNING:** This is ONLY for educational purposes.
 ---
 <h2 align="left">- Features -</h3>
 
