@@ -1,5 +1,8 @@
 # 💾 MicroStealer
 ---
+
+# NOTE: THIS NO LONGER WORKS
+
 <h2 align="center">⚡ A compact Discord Token Logger/Discord Token Grabber made in only 13 lines of code! Injects into discord for long-term use.</h3>
 <h4 align="center">🌟 If you enjoy this, star this repository and drop a follow! Thanks 😊</h3>
 
